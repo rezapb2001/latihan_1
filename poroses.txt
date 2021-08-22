@@ -1,0 +1,14 @@
+- Daftar Github
+	- Login Github
+	- Buat Repository
+	- git init
+	- git config --global user.name "..."
+	- git config --global user.email "..."
+	- git remote add origin .,.
+	- git add . //untuk semua file
+	- git add "Nama file" //untuk file tertentu
+	- git add "Nama Folder/" //untuk folder tertentu
+	- git commit -m "<keterangan>"
+	- git status
+	- git push origin master
+	- git pull origin master
